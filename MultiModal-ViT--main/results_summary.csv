@@ -1,0 +1,4 @@
+,accuracy,balanced_accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,auc_macro_ovr,melanoma_recall
+Image only (ViT),83.09,68.52,69.37,68.52,68.69,83.12,83.09,83.03,90.0,58.08
+Text only (BERT),64.18,40.08,54.15,40.08,43.26,68.45,64.18,65.52,83.52,41.92
+Multimodal (ViT+BERT),86.35,74.54,76.65,74.54,75.24,86.13,86.35,86.12,94.03,61.68
